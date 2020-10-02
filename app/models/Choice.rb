@@ -20,7 +20,7 @@ class Choice
     end
 
     def self.player_name
-        self.player.name
+        @@player.name
     end
 
     
